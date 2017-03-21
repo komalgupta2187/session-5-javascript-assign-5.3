@@ -1,9 +1,9 @@
 var employee = { 
-	name: "Shubham Agarwal", age: 21, salary: 60000, 
+	name: "Komal Arya", age: 29, salary: 80000, 
 	address: { 
-		city: "Gurugram", 
-		state: "Haryana", 
-		pin: 122001
+		city: "Pune", 
+		state: "Maharastra", 
+		pin: 412114
 		},
 	}
 
